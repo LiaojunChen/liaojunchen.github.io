@@ -16,7 +16,7 @@ timezone:
 
 title: Liaojun Chen # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 想做点有意思的事 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   想做点有意思的事
@@ -93,8 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-  /assets/avatar/avatar.jpg
+avatar: /assets/avatar/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
