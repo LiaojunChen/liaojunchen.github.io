@@ -1,3 +1,11 @@
+---
+title: 在ssh端使用codex教程
+date: 2025-09-23 15:00 +0800
+categories: [实用分享]
+tags: [实用分享]
+description: 
+pin: false
+---
 
 # 完整方法
 0.准备：gpt plus或pro账号，良好
